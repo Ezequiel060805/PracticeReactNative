@@ -63,12 +63,6 @@ These projects are intentionally lightweight but functional, showing my ability 
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots or GIFs of each project here to visually showcase your work.)*
-
----
-
 ## 📜 License
 
 This repository is open-sourced for learning purposes.  
