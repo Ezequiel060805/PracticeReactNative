@@ -11,6 +11,6 @@
 ## Install
 
 ```bash
-yarn install
+npm install for each project.
 # or pnpm install
 
