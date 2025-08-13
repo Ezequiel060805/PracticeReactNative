@@ -1,0 +1,51 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build / Dist
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Coverage / Testing
+.coverage
+coverage/
+htmlcov/
+.cache/
+
+# Misc
+*.swp
+*.bak
+*.tmp
+*.temp
+
